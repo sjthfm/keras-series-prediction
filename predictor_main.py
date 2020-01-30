@@ -45,7 +45,7 @@ def createLists(amountOfSteps):
 
 def run():
 	setRandomSeed(123456789)
-	trainingIterations = 5
+	#trainingIterations = 5
 	epochNumber = 5
 	stepsToPredict = 7
 	batchSize = 1
